@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-07T23:45:12 ICT" name="Default suite" finished-at="2023-11-07T23:46:20 ICT" duration-ms="68577">
+    <groups>
+    </groups>
+    <test started-at="2023-11-07T23:45:12 ICT" name="Default test" finished-at="2023-11-07T23:46:20 ICT" duration-ms="68577">
+      <class name="webDriver.LMS_LOGIN">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:45:12 ICT" name="setUp" finished-at="2023-11-07T23:45:22 ICT" duration-ms="9811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginLMS2()[pri:1, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:45:22 ICT" name="testLoginLMS2" finished-at="2023-11-07T23:45:22 ICT" duration-ms="606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginLMS2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:45:22 ICT" name="tearDown" finished-at="2023-11-07T23:45:22 ICT" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:45:22 ICT" name="setUp" finished-at="2023-11-07T23:45:32 ICT" duration-ms="9862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginLMS1()[pri:2, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:45:32 ICT" name="testLoginLMS1" finished-at="2023-11-07T23:45:34 ICT" duration-ms="1596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginLMS1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:45:34 ICT" name="tearDown" finished-at="2023-11-07T23:45:34 ICT" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:45:34 ICT" name="setUp" finished-at="2023-11-07T23:45:39 ICT" duration-ms="5396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginLMS3()[pri:3, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:45:39 ICT" name="testLoginLMS3" finished-at="2023-11-07T23:45:40 ICT" duration-ms="860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginLMS3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:45:40 ICT" name="tearDown" finished-at="2023-11-07T23:45:40 ICT" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:45:40 ICT" name="setUp" finished-at="2023-11-07T23:45:47 ICT" duration-ms="6475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginLMS4()[pri:4, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:45:47 ICT" name="testLoginLMS4" finished-at="2023-11-07T23:45:48 ICT" duration-ms="573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginLMS4 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:45:48 ICT" name="tearDown" finished-at="2023-11-07T23:45:48 ICT" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:45:48 ICT" name="setUp" finished-at="2023-11-07T23:45:54 ICT" duration-ms="6452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginLMS5()[pri:5, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:45:54 ICT" name="testLoginLMS5" finished-at="2023-11-07T23:45:55 ICT" duration-ms="811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginLMS5 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:45:55 ICT" name="tearDown" finished-at="2023-11-07T23:45:55 ICT" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:45:55 ICT" name="setUp" finished-at="2023-11-07T23:46:04 ICT" duration-ms="8620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginLMS8()[pri:6, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:46:04 ICT" name="testLoginLMS8" finished-at="2023-11-07T23:46:04 ICT" duration-ms="616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginLMS8 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:46:04 ICT" name="tearDown" finished-at="2023-11-07T23:46:04 ICT" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:46:04 ICT" name="setUp" finished-at="2023-11-07T23:46:12 ICT" duration-ms="7776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginLMS6()[pri:7, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:46:12 ICT" name="testLoginLMS6" finished-at="2023-11-07T23:46:13 ICT" duration-ms="789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginLMS6 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:46:13 ICT" name="tearDown" finished-at="2023-11-07T23:46:13 ICT" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:46:13 ICT" name="setUp" finished-at="2023-11-07T23:46:20 ICT" duration-ms="6520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginLMS7()[pri:8, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:46:20 ICT" name="testLoginLMS7" finished-at="2023-11-07T23:46:20 ICT" duration-ms="532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginLMS7 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:webDriver.LMS_LOGIN@4b45a2f5]" started-at="2023-11-07T23:46:20 ICT" name="tearDown" finished-at="2023-11-07T23:46:20 ICT" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- webDriver.LMS_LOGIN -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

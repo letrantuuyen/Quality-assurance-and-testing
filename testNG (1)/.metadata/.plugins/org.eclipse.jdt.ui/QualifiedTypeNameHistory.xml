@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="io.github.bonigarcia.wdm.WebDriverManager"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.Keys"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="source_code.frmNhanVien"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.BeforeTest"/>
+    <fullyQualifiedTypeName name="source_code.NhanVien"/>
+    <fullyQualifiedTypeName name="source_code.DanhSachNhanVien"/>
+    <fullyQualifiedTypeName name="org.testng.Assert"/>
+    <fullyQualifiedTypeName name="entity.GiangVienThinhGiang"/>
+    <fullyQualifiedTypeName name="quanli.DanhSachGiangVien"/>
+    <fullyQualifiedTypeName name="entity.GiangVien"/>
+    <fullyQualifiedTypeName name="entity.GiangVienHuuCo"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+</qualifiedTypeNameHistroy>
