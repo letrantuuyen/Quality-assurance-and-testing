@@ -1,0 +1,5 @@
+D:\OneDrive - Industrial University of HoChiMinh City\Nam 4 HK1\KiemThu\TestUnit\UTLab1\UTLab1\obj\Debug\net6.0\UTLab1.csproj.AssemblyReference.cache
+D:\OneDrive - Industrial University of HoChiMinh City\Nam 4 HK1\KiemThu\TestUnit\UTLab1\UTLab1\obj\Debug\net6.0\UTLab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Industrial University of HoChiMinh City\Nam 4 HK1\KiemThu\TestUnit\UTLab1\UTLab1\obj\Debug\net6.0\UTLab1.AssemblyInfoInputs.cache
+D:\OneDrive - Industrial University of HoChiMinh City\Nam 4 HK1\KiemThu\TestUnit\UTLab1\UTLab1\obj\Debug\net6.0\UTLab1.AssemblyInfo.cs
+D:\OneDrive - Industrial University of HoChiMinh City\Nam 4 HK1\KiemThu\TestUnit\UTLab1\UTLab1\obj\Debug\net6.0\UTLab1.csproj.CoreCompileInputs.cache
